@@ -35,8 +35,8 @@ const int wifiFrequencies[] = {
 };
 
 const char* modes[] = {
-  "BLE & All 2.4 GHz",
-  "Just Wi-Fi",
+  "BLE & 2.4GHz Wi-Fi",
+  "2.4GHz Wi-Fi",
 };
 uint8_t mode = 0;
 bool ismode = false;
